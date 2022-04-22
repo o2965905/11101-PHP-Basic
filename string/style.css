@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    font-family: '標楷體';
+}
+.main{
+    display: flex;
+    background-color: bisque;
+    border: 1px solid lightgrey;
+    text-align: left;
+    justify-content: center;
+    
+}
+.pra{
+    border: 1px solid lightslategray;
+    background-color: lightgoldenrodyellow;
+    
+}    
